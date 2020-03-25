@@ -1,3 +1,4 @@
+//https://www.spoj.com/problems/DEFKIN/
 //Defkin SPOJ
 #include<iostream>
 #include<bits/stdc++.h>
