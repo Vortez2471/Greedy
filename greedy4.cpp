@@ -1,3 +1,4 @@
+//https://www.spoj.com/problems/BALIFE/
 //Balife SPOJ
 #include<iostream>
 #include<bits/stdc++.h>
