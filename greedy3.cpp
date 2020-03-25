@@ -10,30 +10,6 @@ int main()
 {
 	ll t;
 	cin>>t;
-
-	while(t--)
-	{
-		ll n;
-		cin>>n;
-		ll i=1,bad=0;
-		while(n--)
-		{
-			ll rank;
-			string str;
-			cin>>str>>rank;
-
-			bad=bad+(abs(rank-i));
-			i++;
-		}
-		cout<<bad<<endl;
-	}
-}
-
-
-/*int main()
-{
-	ll t;
-	cin>>t;
 	while(t--)
 	{
 		ll n;
@@ -54,4 +30,4 @@ int main()
         cout<<count<<endl;
 	}
 
-}*/
+}
